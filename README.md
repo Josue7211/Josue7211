@@ -15,7 +15,7 @@
 <p>
   <a href="https://josue.aparcedo.org"><img src="https://img.shields.io/badge/SITE-A78BFA?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0a0f" /></a>
   <a href="https://docs.aparcedo.org"><img src="https://img.shields.io/badge/DOCS-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0a0a0f" /></a>
-  <a href="https://x.com/aapjosue"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0f" /></a>
+  <a href="https://x.com/aapjosue"><img src="https://img.shields.io/badge/@aapjosue-000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0f" /></a>
   <a href="https://www.linkedin.com/in/josueaparcedo"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>
 </p>
 
