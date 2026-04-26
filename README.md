@@ -7,21 +7,18 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/now_building-memd-A78BFA?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/florida-UTC--04-7C3AED?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/local--first-%E2%9C%93-22c55e?style=for-the-badge&labelColor=0a0a0f" />
-</p>
-
-<p>
-  <a href="https://josue.aparcedo.org"><img src="https://img.shields.io/badge/SITE-A78BFA?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0a0f" /></a>
-  <a href="https://docs.aparcedo.org"><img src="https://img.shields.io/badge/DOCS-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0a0a0f" /></a>
-  <a href="https://x.com/aapjosue"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0f" /></a>
-  <a href="https://www.linkedin.com/in/josueaparcedo"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>
+  <img src="https://img.shields.io/badge/now_building-memd-A78BFA?style=flat-square&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/florida-UTC--04-7C3AED?style=flat-square&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/local--first-%E2%9C%93-22c55e?style=flat-square&labelColor=0a0a0f" />
+  <a href="https://josue.aparcedo.org"><img src="https://img.shields.io/badge/site-A78BFA?style=flat-square&logo=astro&logoColor=white&labelColor=0a0a0f" /></a>
+  <a href="https://docs.aparcedo.org"><img src="https://img.shields.io/badge/docs-7C3AED?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0a0a0f" /></a>
+  <a href="https://x.com/aapjosue"><img src="https://img.shields.io/badge/x-000?style=flat-square&logo=x&logoColor=white&labelColor=0a0a0f" /></a>
+  <a href="https://www.linkedin.com/in/josueaparcedo"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-0c20a4c84a01.gif" width="100%" height="2" alt="divider"/>
 
-<h3>active projects</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=%E2%9D%96+active+projects+%E2%9D%96" alt="active projects" />
 
 <table>
 <tr>
@@ -54,7 +51,7 @@ shell tooling<br/>for agents
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-0c20a4c84a01.gif" width="100%" height="2" alt="divider"/>
 
-<h3>stack</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=99999&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=%E2%9C%A6+stack+%E2%9C%A6" alt="stack" />
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
