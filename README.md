@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Josue%20Aparcedo&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=building%20agent%20infrastructure%20%E2%80%A2%20memory%20%E2%80%A2%20devtools&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=Josue%20Aparcedo&fontColor=ffffff&fontSize=60&fontAlignY=68&desc=building%20agent%20infrastructure%20%E2%80%A2%20memory%20%E2%80%A2%20devtools&descSize=15&descAlignY=86&animation=fadeIn" alt="header" />
 
 <a href="https://josue.aparcedo.org">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=durable+memory+for+agents.;safer+secrets+for+agents.;browser+%2B+shell+control.;local-first.+self-hosted.+yours." alt="typing" />
@@ -25,42 +25,28 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top" align="center">
 
 #### 🧠 [memd](https://github.com/Josue7211/memd)
-memory + retrieval<br/>control plane for agents
+memory + retrieval<br/>control plane
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top" align="center">
 
 #### 🔐 [AgentSecrets](https://github.com/Josue7211/AgentSecrets)
-self-hosted secret broker<br/>w/ approvals + audit
+self-hosted<br/>secret broker
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top" align="center">
 
 #### 🖱️ [clawcontrol](https://github.com/Josue7211/clawcontrol)
 agent browser<br/>+ workflow control
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top" align="center">
 
 #### 🐚 [AgentShell](https://github.com/Josue7211/AgentShell)
-shell tooling<br/>for agent workflows
-
-</td>
-<td width="33%" valign="top">
-
-#### 📚 [docs](https://github.com/Josue7211/docs)
-notes + project<br/>references
-
-</td>
-<td width="33%" valign="top">
-
-#### 🌐 [the site](https://josue.aparcedo.org)
-josue.aparcedo.org<br/>the hub
+shell tooling<br/>for agents
 
 </td>
 </tr>
@@ -71,16 +57,14 @@ josue.aparcedo.org<br/>the hub
 <h3>stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-0c20a4c84a01.gif" width="100%" height="2" alt="divider"/>
