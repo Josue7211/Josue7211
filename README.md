@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=Josue%20Aparcedo&fontColor=ffffff&fontSize=60&fontAlignY=68&desc=building%20agent%20infrastructure%20%E2%80%A2%20memory%20%E2%80%A2%20devtools&descSize=15&descAlignY=86&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:6d28d9,100:0a0a0f&height=220&section=header&text=Josue%20Aparcedo&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=building%20agent%20infrastructure%20%E2%80%A2%20memory%20%E2%80%A2%20devtools&descSize=16&descAlignY=62&animation=fadeIn" alt="header" />
 
 <a href="https://josue.aparcedo.org">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=durable+memory+for+agents.;safer+secrets+for+agents.;browser+%2B+shell+control.;local-first.+self-hosted.+yours." alt="typing" />
