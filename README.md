@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=durable+memory+for+agents.;safer+secrets+for+agents.;browser+%2B+shell+control.;local-first.+self-hosted.+yours." alt="typing" />
 </a>
 
-<sub>
-  <img src="https://img.shields.io/badge/now_building-memd-A78BFA?style=flat-square&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/florida-UTC--04-7C3AED?style=flat-square&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/local--first-%E2%9C%93-22c55e?style=flat-square&labelColor=0a0a0f" />
-</sub>
-
 <p>
   <a href="https://josue.aparcedo.org"><img src="https://img.shields.io/badge/SITE-A78BFA?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0a0f" /></a>
   <a href="https://docs.aparcedo.org"><img src="https://img.shields.io/badge/DOCS-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0a0a0f" /></a>
